@@ -16,6 +16,12 @@ When scrolled down guest can see boxes that contains information-short descripti
 
 On the bottom left side can be seen key points on which the Marketing agency focuses to succeed. 
 
+Deployed URL : https://misachka.github.io/Horiseon-Marketing-Agency/
+
+## Mock-up
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+
 ## Credits
 
 N/A

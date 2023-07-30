@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* adds backgournd color */
 body {
     background-color: #d9dcd6;
 }
-
+/* styling for header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +40,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* text styling for titles*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*text styling paragraphs */
 p {
     font-size: 16px;
 }
-
+/* main image styling, so it will be displayed in the center, defined dimensions */
 .hero {
     height: 1000px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* defines the directions of paragraphs */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 30px;
 }
-
+/* defines styling for benefits secion, placement, sizing, font and coloring */
 .benefits {
     margin-right: 25px;
     padding: 20px;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* defines styling for content secion, placement, sizing, font and coloring */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +160,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* changed image dimensions so they will have same sizing */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,7 +172,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* gives same properties to content text so they will look the same */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* styles footer placament, sizing and font */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +198,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
